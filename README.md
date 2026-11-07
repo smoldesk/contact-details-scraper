@@ -91,4 +91,4 @@ Pay once per website **with contacts found**. Websites with nothing, unreachable
 
 ## More scrapers
 
-Contact Details Scraper is one of 19 no-login scrapers by Smoldesk Studios. See the full list: [smoldesk/apify-scrapers](https://github.com/smoldesk/apify-scrapers).
+Contact Details Scraper is one of 20 no-login scrapers by Smoldesk Studios. See the full list: [smoldesk/apify-scrapers](https://github.com/smoldesk/apify-scrapers).
