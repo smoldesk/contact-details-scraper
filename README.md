@@ -56,19 +56,19 @@ console.log(items.map((r) => [r.sourceData?.name, r.primaryEmail, r.phones[0]]))
 
 ```json
 {
-  "domain": "fabrikatx.com",
-  "name": "Fabrik Austin",
+  "domain": "brightwater.example",
+  "name": "Brightwater Bakery",
   "status": "contacts found",
-  "primaryEmail": "contact@fabrikatx.com",
-  "emails": ["contact@fabrikatx.com"],
-  "phones": ["+1 512-222-9816"],
-  "instagram": "http://instagram.com/fabrikatx",
-  "contactFormUrl": "https://www.fabrikatx.com/",
+  "primaryEmail": "contact@brightwater.example",
+  "emails": ["contact@brightwater.example"],
+  "phones": ["+1 512-555-0148"],
+  "instagram": "http://instagram.com/brightwaterbakery",
+  "contactFormUrl": "https://www.brightwater.example/",
   "emailDetails": [
-    {"email": "contact@fabrikatx.com", "ownDomain": true, "foundOn": "https://www.fabrikatx.com/",
+    {"email": "contact@brightwater.example", "ownDomain": true, "foundOn": "https://www.brightwater.example/",
      "foundIn": "schema.org", "domainAcceptsMail": true}
   ],
-  "pagesChecked": ["https://www.fabrikatx.com/", "https://www.fabrikatx.com/contact", "https://www.fabrikatx.com/about-fabrik"]
+  "pagesChecked": ["https://www.brightwater.example/", "https://www.brightwater.example/contact", "https://www.brightwater.example/about-us"]
 }
 ```
 
